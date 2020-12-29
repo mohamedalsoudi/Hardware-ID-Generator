@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hardware ID Generator", "Hardware ID Generator\Hardware ID Generator.csproj", "{70D8C133-7237-48BC-92B4-427B241D6904}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HWIDGL", "HWIDGL\HWIDGL.csproj", "{9BA90885-5312-4239-8DB4-8E7DD5A9F704}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{70D8C133-7237-48BC-92B4-427B241D6904}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70D8C133-7237-48BC-92B4-427B241D6904}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70D8C133-7237-48BC-92B4-427B241D6904}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70D8C133-7237-48BC-92B4-427B241D6904}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9BA90885-5312-4239-8DB4-8E7DD5A9F704}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BA90885-5312-4239-8DB4-8E7DD5A9F704}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BA90885-5312-4239-8DB4-8E7DD5A9F704}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BA90885-5312-4239-8DB4-8E7DD5A9F704}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ACD07D4E-383D-4115-B922-12F083DD2EA0}
+	EndGlobalSection
+EndGlobal
